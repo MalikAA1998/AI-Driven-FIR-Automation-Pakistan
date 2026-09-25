@@ -90,10 +90,9 @@ docs/       Methodology and documentation
 
 ## Research Context
 
-This repository accompanies research on AI-driven FIR automation for digital policing in Pakistan, with a focus on Urdu legal text processing, semantic retrieval, and retrieval-supported legal reasoning.
+This repository accompanies research on AI-driven FIR automation for digital policing in Pakistan, focusing on Urdu legal text processing, semantic retrieval, and retrieval-supported legal reasoning.
 
 ## Citation
 
-If you use this work, please cite the associated research paper:
 
 > AI-Driven FIR Automation for Digital Policing in Pakistan.
