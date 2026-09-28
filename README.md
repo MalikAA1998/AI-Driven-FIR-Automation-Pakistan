@@ -49,9 +49,7 @@ Semantic retrieval is used to identify legally similar FIR cases from the availa
 
 The retrieval system is evaluated using:
 
-* Top-1 Jaccard Similarity
-* Top-2 Jaccard Similarity
-* Top-3 Jaccard Similarity
+* Jaccard Similarity
 * Hamming Loss
 * Top-3 Retrieval Accuracy
 
