@@ -89,7 +89,3 @@ Result/     Retrieval and reasoning results
 
 This repository accompanies research on AI-driven FIR automation for digital policing in Pakistan, focusing on Urdu legal text processing, semantic retrieval, and retrieval-supported legal reasoning.
 
-## Citation
-
-
-> AI-Driven FIR Automation for Digital Policing in Pakistan.
