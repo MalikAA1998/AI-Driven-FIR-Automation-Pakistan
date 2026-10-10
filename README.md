@@ -69,8 +69,9 @@ Original FIRs may contain sensitive personal and legal information. Therefore, r
 
 ```text
 DATA/       Dataset and sample data
-Script/       Data processing, embedding, retrieval, and evaluation scripts
+Script/     Data processing, embedding, retrieval, and evaluation scripts
 PPC/        PPC reference data
+Result/     Retrieval and reasoning results
 ```
 
 ## Technologies
