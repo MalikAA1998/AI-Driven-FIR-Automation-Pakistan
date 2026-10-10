@@ -68,11 +68,9 @@ Original FIRs may contain sensitive personal and legal information. Therefore, r
 ## Repository Structure
 
 ```text
-data/       Dataset and sample data
-code/       Data processing, embedding, retrieval, and evaluation scripts
-ppc/        PPC reference data
-results/    Experimental results
-docs/       Methodology and documentation
+DATA/       Dataset and sample data
+Script/       Data processing, embedding, retrieval, and evaluation scripts
+PPC/        PPC reference data
 ```
 
 ## Technologies
