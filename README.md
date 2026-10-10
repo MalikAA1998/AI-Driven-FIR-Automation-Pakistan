@@ -72,6 +72,7 @@ DATA/       Dataset and sample data
 Script/     Data processing, embedding, retrieval, and evaluation scripts
 PPC/        PPC reference data
 Result/     Retrieval and reasoning results
+Prompt/     OCR, anonymization and Synthetic Data 
 ```
 
 ## Technologies
