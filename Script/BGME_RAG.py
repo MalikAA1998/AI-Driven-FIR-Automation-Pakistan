@@ -232,9 +232,7 @@ from google.colab import userdata
 
 #genai.configure(api_key=GOOGLE_API_KEY)
 
-genai.configure(api_key="AIzaSyAfBf8IHScuYO1VUPblbx3WtZgkWBCkkYc")
-
-genai.configure(api_key="AIzaSyAfBf8IHScuYO1VUPblbx3WtZgkWBCkkYc")
+genai.configure(api_key="Ac")
 
 for m in genai.list_models():
   # Print models that support the generateContent method
